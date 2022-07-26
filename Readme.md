@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Interior Design Landing Page]()
+- [Interior Design Landing Page](https://live-proj-10-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-10-Interior-Design-Landing-Page/blob/main/Actual-Screenshot.JPG)
